@@ -21,7 +21,7 @@ Picreferer = {
 }
 
 html = requests.get(url, headers=Hostreferer)
-soup = BeautifulSoup(html.text, "html.parser")
+soup = BeautifulSoup(html.text, "lxml")
 pic_max = soup.find_all('a', class_='page-numbers')[3].text
 
 path = os.getcwd() + "/mzitu"
@@ -35,7 +35,7 @@ print('开始执行下载功能')
 for i in range(1, int(pic_max) + 1):
     href = url + '/page/' + str(i)
     html = requests.get(href, headers=Hostreferer)
-    soup = BeautifulSoup(html.text, "html.parser")
+    soup = BeautifulSoup(html.text, "lxml")
     images = soup.find_all('img', class_='lazy')
 
     for img in images:
