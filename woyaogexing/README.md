@@ -1,9 +1,10 @@
 # woyaogexing
-https://www.ygdy8.net</br>
-ygdy8.txt: 爬取内容存储文件</br>
-ygdy8.py: 爬取内容</br>
+https://www.woyaogexing.com</br>
+download: 爬取图像存储文件夹</br>
+woyaogexing.py: 爬取图像</br>
 </br>
-爬取最新电影:</br>
-https://www.ygdy8.net/html/gndy/dyzz/list_23_{}.html</br>
+爬取头像:</br>
+https://www.woyaogexing.com/touxiang/z/ktecy/index_{}.html</br>
 爬取内容:</br>
-连接 标题 评分 下载连接</br>
+头像图片</br>
+只能从第2页爬起
