@@ -1,5 +1,5 @@
 # woyaogexing
-https://www.woyaogexing.com/touxiang/z/ktecy/index_{}.html</br>
+https://www.woyaogexing.com</br>
 download: 爬取图像存储文件夹</br>
 woyaogexing.py: 爬取图片</br>
 </br>
