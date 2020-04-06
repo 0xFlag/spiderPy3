@@ -38,6 +38,7 @@ v3-dy.ixigua.com</br>
 v5-dy.ixigua.com</br>
 v6-dy.ixigua.com</br>
 v26-dy.ixigua.com</br>
+v27-dy.ixigua.com</br>
 v29-dy.ixigua.com</br>
 </br>
 分析网站，有点看不懂：</br>
