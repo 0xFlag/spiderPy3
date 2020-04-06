@@ -21,7 +21,7 @@ https://aweme.snssdk.com/aweme/v1/playwm/?s_vid=93f1b41336a8b7a442dbf1c29c6bbc56
 以及封面：</br>
 https://p3.pstatp.com/large/tos-cn-p-0015/584d6a06932940998a1decc057ab2978_1584418313.jpg
 </br>
-访问第一个获取的水印地址，跳转至：</br></br>
+访问第一个获取的水印地址，跳转至：</br>
 http://v6-dy-y.ixigua.com/d3bcbb96ea87f77cefcdee819c7a2dfb/5e8b5486/video/tos/hxsy/tos-hxsy-ve-0015/832e6e52408d4c1e931b763b152e5d21/?a=1128&br=0&bt=2405&cr=0&cs=0&dr=0&ds=3&er=&l=2020040623103601000806423716CB0748&lr=aweme&qs=0&rc=am9oczx5OzQ3czMzZGkzM0ApODVpNzk8OWRmNzVnM2g1N2dsZTFhci9fcGxfLS1fLS9zczM0Yl8vMzVfYGBhNmItYTE6Yw%3D%3D&vl=&vr=
 </br>
 获得去水印视频地址很简单，把水印地址中playwm改成play：</br>
