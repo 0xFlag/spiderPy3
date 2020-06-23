@@ -7,6 +7,8 @@
 </br>
 ~~jx1.1.py 硬刚滑块验证，使用了两个头部就饶过了滑块验证，2020/04/25 'NoneType' object has no attribute 'attrs'~~
 </br>
+jx1.2py 解决'NoneType' object has no attribute 'attrs'，2020/06/23
+</br>
 3.py 视频地址排序并去重</br>
 4.py 去重</br>
 </br>
@@ -23,3 +25,6 @@
 所以代码也很好理解就是通过第一个域名获取第二个域名后再通过源代码解析出视频地址</br>
 绕过滑块验证也很好理解，第一个域名和第二个域名的访问头部不同</br>
 最后有一点就是注意cookie的存活周期，使用此代码前修改下代码中的请求头部cookie</br>
+2020/06/23</br>
+jx1.1.py 解析时报错'NoneType' object has no attribute 'attrs'，顺藤摸瓜发现快手改了代码，没有hide-pagedata这个标签改成了<script type="text/javascript">window.pageData</script></br>
+另外使用前需要修改代码中的两个请求头部cookie
