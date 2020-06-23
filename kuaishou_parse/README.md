@@ -5,7 +5,7 @@
 1.py 把快手分享的链接放入s.txt中，正则提取短链接写入u.txt中</br>
 ~~jx1.0.py 目前1.0无法使用，快手增加了滑块验证，支持单个或批量解析~~
 </br>
-~~jx1.1.py 硬刚滑块验证，使用了两个头部就饶过了滑块验证，2020/04/25 'NoneType' object has no attribute 'attrs'~~
+~~jx1.1.py 硬刚滑块验证，使用了两个头部就饶过了滑块验证，2020/04/25~~
 </br>
 jx1.2.py 解决'NoneType' object has no attribute 'attrs'，2020/06/23
 </br>
