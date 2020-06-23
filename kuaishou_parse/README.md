@@ -7,7 +7,7 @@
 </br>
 ~~jx1.1.py 硬刚滑块验证，使用了两个头部就饶过了滑块验证，2020/04/25 'NoneType' object has no attribute 'attrs'~~
 </br>
-jx1.2py 解决'NoneType' object has no attribute 'attrs'，2020/06/23
+jx1.2.py 解决'NoneType' object has no attribute 'attrs'，2020/06/23
 </br>
 3.py 视频地址排序并去重</br>
 4.py 去重</br>
