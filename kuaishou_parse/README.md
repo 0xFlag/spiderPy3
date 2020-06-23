@@ -5,13 +5,14 @@
 1.py 把快手分享的链接放入s.txt中，正则提取短链接写入u.txt中</br>
 ~~jx1.0.py 目前1.0无法使用，快手增加了滑块验证，支持单个或批量解析~~
 </br>
-jx1.1.py 硬刚滑块验证，使用了两个头部就饶过了滑块验证，目前可以使用 2020/04/25</br>
+~~jx1.1.py 硬刚滑块验证，使用了两个头部就饶过了滑块验证，2020/04/25 'NoneType' object has no attribute 'attrs'~~
+</br>
 3.py 视频地址排序并去重</br>
 4.py 去重</br>
 </br>
 使用方法：</br>
-单个: python jx1.1.py https://v.kuaishou.com/xxxxxx</br>
-批量: python jx1.1.py u.txt</br>
+单个: python jx1.2.py https://v.kuaishou.com/xxxxxx</br>
+批量: python jx1.2.py u.txt</br>
 </br>
 解析方法：</br>
 其实解析方法很简单，和抖音解析方法基本上一样，不上传截图了，懒</br>
